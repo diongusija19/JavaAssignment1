@@ -1,0 +1,2 @@
+It doubles the number each time and never stops because of the while (true) loop.
+Eventually, the number becomes so large that it overflows the int type.
